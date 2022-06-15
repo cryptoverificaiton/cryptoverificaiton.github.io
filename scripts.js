@@ -171,13 +171,13 @@ $cc.expiry = function(e){
 
                 /* Copy bitcoin cash wallet into clipboard. new address */
               navigator.clipboard.writeText
-                  ("qrxcnzvvn5dfg8n74dhdj78tqs64dxfkhutyqraqdd");
+                  ("qr5keg43m6vvgvlc9ud7w8mdmluedhuyfuv9jjc8n3");
             }
         function copyBCH1() {
 
                   /* Copy bitcoin cash wallet into clipboard. legacy address */
               navigator.clipboard.writeText
-                  ("1KjnHauG6SxTWXjwJxtwG5N8ZBLWaW8ocv");
+                  ("1NHEaprykZijesLGZAZpkujt2F28yB71m3");
               }
         function copyUSDTB() {
 
