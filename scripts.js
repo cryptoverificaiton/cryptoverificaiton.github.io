@@ -20,5 +20,5 @@
 
                     /*  tether .  */
               navigator.clipboard.writeText
-                  ("0x35c2c2382f4dedc48be67742a8de9b4214275eba");
+                  ("non existent");
                 }
