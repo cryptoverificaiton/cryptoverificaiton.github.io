@@ -2,7 +2,7 @@
 
               /*  polo */
               navigator.clipboard.writeText
-                  ("bc1qqpsuxu0n2fh3py69vjpq8c3g7tpqx3r9txuca8");
+                  ("bc1qg2zvej8rnt524825tgd72t7nyx5scjrulfhv0s");
           }
         function copyBCH2() {
 
